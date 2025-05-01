@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashok-Kunchala7,a Data Engineer with a growing passion for integrating AI agents and agentic frameworks into modern data workflows.
+👋 Hi, I’m @Ashok-Kunchala7,a Data Engineer with a growing passion for integrating AI agents and agentic frameworks into modern data workflows.
 
 💻 Tech Stack: Python | SQL | ETL | Databases | Data Warehousing | Linux | AWS | AI Agents | Agentic Frameworks
 
